@@ -26,7 +26,7 @@ OUTPUT SCREENSHOTS :
 
 ![image](https://github.com/Ritzz09/cafe_coffee/assets/105771789/a8fc67e6-bd50-4990-9b15-a86736ec9164)
 
-![image](https://github.com/Ritzz09/cafe_coffee/assets/105771789/46627a48-b6e9-4aae-b5ba-29c599c7fcd2)
+![image](https://github.com/user-attachments/assets/4e57a36f-d22e-4e3f-8cb1-9cd48c67c487)
 
 ![image](https://github.com/Ritzz09/cafe_coffee/assets/105771789/d591c43d-28c0-4814-b99a-a6b0860f51cb)
 
